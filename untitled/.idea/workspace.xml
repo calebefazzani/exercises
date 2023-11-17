@@ -52,13 +52,13 @@
       <recent name="org.example.chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RetirementCalculator">
-    <configuration name="BottleSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.bottles.BottleSong" />
+  <component name="RunManager" selected="Application.PizzaParty">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.bottles.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MadLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.chapter2.MadLib" />
+    <configuration name="AreaOfRetangularRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.chapter3.AreaOfRetangularRoom" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.chapter2.*" />
+          <option name="PATTERN" value="org.example.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingQuotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.chapter2.PrintingQuotes" />
+    <configuration name="PizzaParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.chapter3.PizzaParty" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.chapter2.*" />
+          <option name="PATTERN" value="org.example.chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PizzaParty" />
+        <item itemvalue="Application.AreaOfRetangularRoom" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.RetirementCalculator" />
         <item itemvalue="Application.SimpleMath" />
-        <item itemvalue="Application.MadLib" />
-        <item itemvalue="Application.BottleSong" />
-        <item itemvalue="Application.PrintingQuotes" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +150,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/chapter3/PizzaParty.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
